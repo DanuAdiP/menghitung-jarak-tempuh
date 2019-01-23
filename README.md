@@ -1,3 +1,3 @@
 # menghitung-jarak-tempuh
 
-## Ini adlah cara menghitung jarak tempuh dengan menggunakan bahasa pemrograman C++
+## Ini adalah cara menghitung jarak tempuh dengan menggunakan bahasa pemrograman C++
